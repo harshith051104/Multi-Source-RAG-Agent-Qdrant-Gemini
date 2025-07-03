@@ -4,7 +4,7 @@ This project implements a sophisticated, secure, and user-friendly RAG (Retrieva
 
 The key innovation is its ability to create and manage separate, persistent vector stores for each user and data source. This ensures that data is not only secure but also that the AI's responses are precisely tailored to the specific context provided by the user's documents.
 
-![A screenshot of the Gradio interface showing the chat window and the data source upload sidebar.]("C:\Users\sriha\OneDrive\Pictures\Screenshots 1\Screenshot 2025-07-03 230418.png")
+![A screenshot of the Gradio interface showing the chat window and the data source upload sidebar.](Screenshot_2025-07-03_230418.png)
 
 ## ✨ Features
 
